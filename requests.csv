@@ -1,0 +1,2 @@
+id,release,hours,description,status
+CR10,R4,55,"Board requests multi-crop price bands (REQ-66); the rate routine had to be cleaned up first because it was too tangled to extend",logged
